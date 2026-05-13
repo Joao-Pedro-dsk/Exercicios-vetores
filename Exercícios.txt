@@ -1,0 +1,40 @@
+Exercício 1)
+Declare um vetor de 10 números inteiros. Leia os valores digitados pelo usuário e, ao final, exiba todos os elementos do vetor na tela.
+Dica: utilize um laço de repetição para leitura e outro para exibição; lembre-se que os índices vão de 0 até 9.
+
+Exercício 2)
+Leia 10 números inteiros e mostre apenas os números pares armazenados no vetor.
+Dica: utilize o operador % para verificar se o número é par.
+
+Exercício 3)
+Leia 10 números inteiros e calcule a soma de todos os elementos do vetor. Ao final, exiba o resultado.
+Dica: use uma variável acumuladora para armazenar a soma.
+
+Exercício 4)
+Leia 10 números inteiros e determine qual é o maior valor presente no vetor.
+Dica: inicialize uma variável com o primeiro elemento do vetor e compare com os demais.
+
+Exercício 5)
+Leia 10 números inteiros e exiba os valores na ordem inversa da leitura.
+Dica: percorra o vetor do último índice até o primeiro.
+
+Exercício 6)
+Leia 10 números inteiros e informe quantos são positivos, quantos são negativos e quantos são iguais a zero.
+Dica: utilize três variáveis contadoras.
+
+Exercício 7)
+Leia um vetor de 10 números inteiros e, em seguida, leia um número X. Verifique se o valor X está presente no vetor.
+Dica: percorra o vetor comparando cada elemento com X.
+
+Exercício 8)
+Leia dois vetores A e B, cada um com 10 números inteiros. Crie um terceiro vetor C onde cada posição será a soma dos elementos correspondentes de A e B.
+Dica: use o mesmo índice para acessar os dois vetores ao mesmo tempo.
+
+Exercício 9)
+Leia uma palavra e informe quantos caracteres ela possui.
+Dica: percorra o vetor de caracteres até encontrar o caractere nulo ('\0').
+
+ Exercício 10)
+
+Leia uma palavra e verifique se ela é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+Dica: compare os caracteres das extremidades (início e fim) do vetor.
